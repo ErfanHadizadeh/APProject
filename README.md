@@ -24,7 +24,7 @@ Albums: Albums
 Album: an Album
 ![3](https://user-images.githubusercontent.com/48644710/123538119-6eb67300-d748-11eb-88e0-93188f703149.png)
 
-Create and add PlayLis: Create Play List
+Create and add PlayList: Create PlayList
 ![4](https://user-images.githubusercontent.com/48644710/123538122-7118cd00-d748-11eb-91aa-fb378437ac4f.png)
 
 Playlists: playlists
